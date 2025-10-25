@@ -1,0 +1,22 @@
+{
+  "name": "agentuity-theme",
+  "displayName": "Agentuity Theme",
+  "description": "A dark theme with cyan/turquoise accents",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Agentuity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/agentuity-theme.json"
+      }
+    ]
+  }
+}
