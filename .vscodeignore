@@ -1,0 +1,11 @@
+.git
+.gitignore
+.github
+.vscode
+*.vsix
+node_modules
+.editorconfig
+.eslintrc.json
+**/*.map
+**/*.ts
+!themes/**/*.json

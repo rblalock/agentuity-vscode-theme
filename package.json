@@ -1,9 +1,28 @@
 {
   "name": "agentuity-theme",
   "displayName": "Agentuity Theme",
-  "description": "A dark theme with cyan/turquoise accents",
+  "description": "A dark theme with cyan/turquoise accents designed for comfortable coding",
   "version": "1.0.0",
   "publisher": "local",
+  "author": {
+    "name": "Rick Blalock"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rblalock/agentuity-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/rblalock/agentuity-vscode-theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cyan",
+    "turquoise",
+    "color-theme",
+    "agentuity"
+  ],
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -18,5 +37,9 @@
         "path": "./themes/agentuity-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#041619",
+    "theme": "dark"
   }
 }
