@@ -90,7 +90,9 @@ The theme uses a carefully selected color palette:
 
 ## Screenshots
 
-Add screenshots here to showcase your theme in action.
+![Agentuity Theme in Action](images/screenshot-1.png)
+
+The theme features vibrant cyan/turquoise highlights on a deep dark background, optimized for comfortable coding sessions.
 
 ## Customization
 
